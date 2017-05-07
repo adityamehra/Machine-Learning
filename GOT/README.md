@@ -16,6 +16,7 @@
 
 [(u'sipped', 1.0427031517028809), (u'drained', 1.0232458114624023), (u'drank', 1.017581582069397), (u'cup', 1.0094243288040161), (u'flagon', 0.9842320680618286), (u'poured', 0.9823715686798096), (u'sip', 0.9740304946899414), (u'cups', 0.9720169901847839), (u'hippocras', 0.9629166126251221), (u'watered', 0.9627070426940918)]
 
+***
 
 #### `arya is related to nymeria, as dany is related to dragons`
 
@@ -33,6 +34,7 @@
 
 [(u'randyll', 0.9584887623786926), (u'samwell', 0.9542457461357117), (u'massey', 0.8935108184814453), (u'marsh', 0.8809016942977905), (u'dickon', 0.8749480843544006), (u'rangers', 0.8745390772819519), (u'rowan', 0.873435914516449), (u'thorne', 0.8729324340820312), (u'bowen', 0.8726382851600647), (u'othell', 0.8675212860107422)]
 
+***
 
 #### `arya is related to stark, as sam is related to tarly`
 
@@ -44,6 +46,7 @@
 
 [(u'dwarf', 0.8886903524398804), (u'hole', 0.8520877361297607), (u'dany', 0.8299647569656372), (u'sam', 0.8215243220329285), (u'penny', 0.8167315721511841), (u'legs', 0.8146217465400696), (u'meera', 0.8142551183700562), (u'stinking', 0.8104223012924194), (u'shae', 0.8093323707580566), (u'grinning', 0.8067507743835449)]
 
+***
 
 #### `bran is related to robb, as tyrion is related to jaime`
 
@@ -60,21 +63,25 @@
 #### `eddard is related to robb, as kingslayer is related to jaime`
 [(u'kingslayer', 0.9153674840927124), (u'pays', 0.9014945030212402), (u'jaimes', 0.8947036862373352), (u'cersei', 0.8932570815086365), (u'headsman', 0.891247570514679), (u'harrenhal', 0.8848142027854919), (u'renlys', 0.884083092212677), (u'tywin', 0.8774996399879456), (u'cerseis', 0.8765556812286377), (u'joff', 0.8735513687133789)]
 
+***
 
 #### `eddard is related to robb, as tywins is related to tywin`
 
 [(u'tywins', 0.9834491014480591), (u'pays', 0.9592571258544922), (u'debts', 0.9499769806861877), (u'regent', 0.9498841762542725), (u'janos', 0.9397786855697632), (u'protector', 0.9346964955329895), (u'littlefinger', 0.9343573451042175), (u'proclaim', 0.9329777359962463), (u'godric', 0.9324170351028442), (u'kingslayer', 0.9319446086883545)]
 
+***
 
 #### `sansa is related to robb, as cersei is related to jaime`
 
 [(u'cersei', 1.0029033422470093), (u'shae', 0.9902623295783997), (u'cerseis', 0.9588853716850281), (u'tyrion', 0.9446425437927246), (u'dwarf', 0.9339424967765808), (u'margaery', 0.924364447593689), (u'tyrions', 0.9240373969078064), (u'alayaya', 0.9218987226486206), (u'joff', 0.9145792722702026), (u'ilyn', 0.9044299125671387)]
 
+***
 
 #### `arya is related to robb, as brienne is related to jaime`
 
 [(u'brienne', 0.9111785888671875), (u'tyrion', 0.9037269949913025), (u'hound', 0.902532696723938), (u'tyrions', 0.8838063478469849), (u'urswyck', 0.8751212358474731), (u'clegane', 0.8724026083946228), (u'dwarf', 0.8611605763435364), (u'pia', 0.8590879440307617), (u'mummers', 0.8540295958518982), (u'shed', 0.853877604007721)]
 
+***
 
 #### `robb is related to sansa, as tywin is related to cersei`
 
