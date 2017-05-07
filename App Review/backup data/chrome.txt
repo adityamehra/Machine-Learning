@@ -1,0 +1,102 @@
+The only purpose of sync is not for user convenience, it is to guarantee tracking across all devices. Not being able to START the app in Incognito mode only adds validity to my statement. Nothing syncs from desktop to mobile except history and cookies.(Tracking data) None of the settings sync, no cookie exceptions, no pop-up exceptions, homepage, open tabs, bookmarks, or passwords. This version of Chrome is just another run of the mill mobile browser.
+ April 24, 2017
+PLEASE MAKE EFFECTIVE CHANGES IF YOURE GOING TO KEEP MAKING THEM. Because I'd really like to be pleasantly surprised...What everybody else said: BLOAT. BUFFER. WHAT IS THIS DOWNLOAD MENU AND WHERE ARE MY BOOKMARKS????? Also, if I have to redo my "card preferences" again I'm gonna flip out and quit Chrome. I've had the same Gmail account for 10 years and every time there's an update, I get "forgotten" and have to redo it. SRSLY
+Thanks for making MORE changes to the new tab page where you have removed the bookmarks and tab buttons, replacing them with suggested garbage articles and now my recent bookmarks?? Downloads??? WHY can't I make the articles go away even after editing the flags? Instead it just tells me there are no articles. I don't want Google making suggestions on some jazz that I didn't ask for. Invasive trash that I am frankly tired of. Why can't we opt in instead of always opting out?? Changes made via /flags reverts the page to how it worked before. Bye bye new tab and bookmarks. Will be reverting and disabling updates to chrome. I hate you guys.
+Cory Smith  April 25, 2017
+You "Are"Google right? You just removed Bookmarks and added this downloads garbage to the bottom of the page. Should you maybe ask Microsoft for help or no? What type of Whiskey did the person that said "Sure, this looks fine" drink the night before this update was launched ? Is there here a download for Netscape Navigator available?
+A Google User  April 25, 2017
+After these last 2 updates, I cannot enter anything in a number field. If I do, it automatically starts repeating itself in said field. EX: you enter a 4 it becomes 444444 and so on. And you can't delete it either. Makes ordering anything on my phone, impossible. Had to use Firefox to complete my order. Does the same thing on my Toshiba thrive 7in tablet.
+I want "Bookmarks" and "Recent Tabs" back on my new tab page, not a lot of useless content and articles I didn't ask for with no way in the settings to disable it. Nothing like ruining what used to be a nice and simple browser with a lot of crappy clutter. Of course you won't change it back in spite of how other users here also dislike the change because you think Google knows best. Huge fail.
+Tony Gohagan  April 25, 2017
+I HAVE NO OPTION TO CHANGE THE FACT THAT MY BOOKMARKS ARE CHANGED TO A LIST AND NOT TILES...if it was an option that would be fine but the List view of bookmarks absolutely sucks: it looks and feel like a downgrade..it's so much LESS User Friendly! hopefully this will change v.soon. Thankfully, I'm not getting 'aw, snap' Notifications, and after a few attempts that returned ' page is not responding/no internet connection' all is normal...
+Stephen Barnett  April 22, 2017
+Seems to be getting more bloated, new tab page suggestions are annoying. Should be able to disable them.
+The update has ruined the image quality. Its a joke now how bad it is. Its like the upgrade as gone back in time 10 years. Dissapointing.
+Ashwin Nair  April 23, 2017
+The problem is that I'm not able to watch videos on the browser I have to download YouTube separately and Facebook app separately to watch videos , otherwise on the browser it keeps pausing on itself and doesn't run Help me please sundarr pichai even I'm an Indian!!
+David Sonenschein  April 25, 2017
+Latest update took away the ability to block “suggested” links from appearing on the new tab page. Enjoy your new cluttered page of ads, Google doesn't care about user feedback.
+BhavanaRushi M  April 24, 2017
+Because if its fastness. But, after recent update. App is taking much space around 100 MB. I think a browser app does not require such space. If u reduce, then I'll go for 5*
+Glenn Pettit  April 23, 2017
+Version 58 killed the Bookmarks and Recent Pages tabs at the bottom of the New Tab Page! HATE THIS UPDATE! Bring back those tabs, Google!
+I don't understand why Google will not give the Android version of chrome swipe gestures to go forward and back OR add a forward and back arrow to the toolbar that doesn't require going into a menu. It's just an extra step that's unnecessary to have to click the three dots to hit the forward, refresh or favorites buttons. Please stop annoying 'you won' pop-ups and 'your device is corrupted' pop ups. The ads are getting more ridiculous. The pop up blocker doesn't work. I'd like to see native PDF support in the app instead of being forced into downloading the PDF to your devices. Getting "aw snap, WebGL" errors left and right.
+Ahmed Sami  April 24, 2017
+Some times it dosent open web pages and says eror in conection it happens alot recently even though my other browsers open it normally
+ April 23, 2017
+Very Good. Chrome is the best Web browser for Android. New updates are making it better. I'm waiting for new features to be added. Also some bugs are present & need to be fixed. thanks.
+spencer madia  April 24, 2017
+Whenever i'm going to a website its suddenly crashed for no reason
+Google Inc. April 25, 2017
+Hi Spencer. Try clearing Chrome application cache by going to Settings on your device, then Apps, Chrome, Storage, then tap “Clear Cache”. Close the app, then reload. If that doesn't work, we can help you in the Chrome Forum: https://goo.gl/7aEhrW.
+After the latest update picture quality is terrible i can see little dots and pixels everywhere. Please fix this.
+trisha chambers  April 25, 2017
+Just updated and now it WILL NOT OPEN!!!! It keeps crashing. Fix it
+ April 25, 2017
+New update kills the battery. Chrome at 20% battery use and I hardly used it today.
+Hossam Sayed  April 22, 2017
+So bad always needs update then un-update to work.
+Harshad Veer  April 25, 2017
+Why does all pdf down from chrome are corrupted ?
+ April 25, 2017
+😎 I only use this mostly for my Chromecast/Googlehome app to see movies. Google products are NSA & I prefer Bing. 🙊🙉🙈
+Alex Sandoval  April 25, 2017
+Smooth and snappy! However, the only thing is the lack of support for flash!
+Shelley Martin  April 21, 2017
+Fed up with the updates . Get it right first time
+Did I ask for the bloat (suggestions) you now add to the new tab page ? NO !
+Anurag yadav  April 20, 2017
+All bookmarks toolbar on homepage so easily grasp by one hand
+Bashir Baqi  April 24, 2017
+Ads irritating stopped working now
+Nazli Razi  April 23, 2017
+So usefull for me!!!Great browser,Im always use it....
+Joe Colagreco  April 22, 2017
+NEW UPDATE WORKS AS DESCRIBED. ... I HAVE NO PROBLEMS
+Google Inc. May 11, 2016
+Hello, download Chrome Beta and please let us know if it resolves the issue for you: https://goo.gl/htjGLD If not, come visit the Chrome Forum: https://goo.gl/7aEhrW
+Tom Little  April 24, 2017
+Won't open. Crashes..
+ April 21, 2017
+Best Browser I have used till date..
+It's not work in law data speed..
+Mark Earsley  April 24, 2017
+STOP REMOVING THE BOOKMARK TAB FROM THE NEW TAB PAGE EVERY UPDATE.
+pritam vasave  April 25, 2017
+Thank you Google for this great service
+rama chandran  April 25, 2017
+Every three day's ones asking me updates
+Vipul Goel  April 21, 2017
+Good bt need to enhance service quality
+Robert Pitt  April 25, 2017
+credit for the layout ... you get no credit for interference - a web browser is a personal gate way into information that springs to mind , . The home page and tab page should be a clean slate, as a programmer you give people the choice to decide for themselves what they wish for there browser (home page) . Its not for you or anybody else to make a permanent decision ..you should think about getting rid of that rss news paper feed-article suggestions you have in bedded on the home screen, ,, nobody wants there personal lives forcefully interfered with unless they decide otherwise .you have given no option to turn this feed off .
+Doesn't work suddenly closes
+Google Inc. April 24, 2017
+Hi Faizan. Try clearing Chrome application cache by going to Settings on your device, then Apps, Chrome, Storage, then tap “Clear Cache”. Close the app, then reload. If that doesn't work, we can help you in the Chrome Forum: https://goo.gl/7aEhrW.
+Shaidul Shuvo  April 24, 2017
+Well ! How can I change Google Chrome ANDROID download directory On SD Card.??? Any tips.???
+t's really great but something seems out of the picture
+VaRuN vishwakarma.G  April 21, 2017
+Need dark theme or night mode and more add ons
+Vlado Visko  April 25, 2017
+Please make it better !
+양소  April 25, 2017
+棒！
+Amir hossein Abdolmotallebi  April 25, 2017
+One of the best browsers on android
+Thanks Google for giving find in Page.
+ain kasep  April 23, 2017
+Tiba tiba lenyap begitu saja ketika browsing, tolong perbaiki
+arbaj Pathan  April 20, 2017
+It is very good for searching
+Tanvir Husain  April 25, 2017
+Ad block option required.
+Manjeet Singh  April 25, 2017
+I like it very much.
+Google chrome is the best.
+slittle99990  April 24, 2017
+Excellent browser.
+Joshua Dale Ridge Joshua Dale Ridge  April 24, 2017
+We shall see
+Love it.!
+Sometimes​ the autocorrect is automistake

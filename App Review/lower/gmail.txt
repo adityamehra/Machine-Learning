@@ -1,0 +1,100 @@
+sync of pop3 accounts is very problematic using wifi. "there was a problem syncing this folder. please try again later." interestingly, actual gmail accounts sync just fine on both wifi and carrier. account setup of pop3 accounts is very tedious as it attempts to verify on each data point in the config. things were by far better when the os built-in email client was available and separate from gmail.
+
+the latest update has put things back in their normal state... for now. i am very thankful for the masterminds that figured out the issues and resolved them. but as of now, i give the app only 3 stars. i'm a little apprehensive about the longevity of this presently working app. thanks a lot for your hard work and diligence! :)
+
+dear team, i really disappointed with recent activities thats happening with my gmail. even after disabling all ad related notifications, i keep on receiving unwanted and irritating as mails. kindly help.me to opt out for all kind of ad mails or i have no other option that moving out of my gmail for communication
+
+the reason i don't like gmail app is no push notifications. i hate to use system sync as it's battery hog, no matter what android device you use. gmail push notifications isn't hard thing to do. can't believe google have left this simple thing out.
+
+ever since about 3 updates ago, i no longer have suggested contacts when i type in the recipient of a new email. when it was just gmail, it wasn't an issue. when i added my other email accounts from yahoo and aol, i no longer have them. i don't have my contacts emails memorized from all 3 accounts, so i have to spend endless time going through old emails looking for one from that contact, and clicking 'reply' in order to write them a new email. then, it makes it look like i'm replying to that specific email again, which i'm not. every one of them are synced. that's absolutely ridiculous the steps that i have to take in order to 
+
+can't open emails since the last month! they just get stuck on loading! the general mail system is all right, but it's not very good for composing letters. if i tap reply and start writing, the keyboard pops up but i'm not writing anywhere. if i write longer than my screen length, it's keeps scrolling up to the start, so i can't see what i'm writing. i also miss being able to use formatting and my ordinary gmail signature.
+
+unfortunately google really seem to miss the big picture. more and more of us almost exclusively use mobile devices yet so much is denied to the mobile user. e.g. group emails, editing folders etc. this forces me to use an alternative.
+
+the support for external emails is pathetic. 1. after doze, the emails just deleted will reappear (and email just read may be refreshed as "unread"). 2. the unread count stops working. 3. need the ability to automatically go to the next email directly (instead of backing out one email and then access the next one). 4. search functions for external emails are severely limited. finally (for gmail only): need to be able to ungroup emails from conversation mode.i need to delete some junks, drafts, etc. in a chain of email …it is very annoying.
+
+too many non stop updates. gmail needs a seperate unlimited data plan. new update, buggy programming by the devs, has removed the quantity of gmails in folders once viewing. in other words, i now have gmail that i want to view again in various folders and once viewing them, the quantity number disappears forever. a programmer should be fired over this.
+
+4/12/17: stop queuing my sends and send them. 4/6/17: stop sending two emails when i reply. /some ad at top. you just tried to give me a $5 coupon to a pet store 120 miles away. are you kidding? i want to try iphone now. i am reporting spam and it leaves all the spam sitting there. if it is spam then clear it.
+
+oh...a google app which actually works like it's supposed to. ah...this is what my cheap phone thinks. sometimes it unchecks the sync checkbox for my account and i need to recheck it. edit: using it on a marshmallow phone. not bad. yet. edit: no need to open my links in the app, i still like my browser. you don't need to know the links in my mails.
+
+the latest update basically broke the program. emails will no longer load when selected. hey google, next time do a proper job of regression testing before releasing a new update!
+
+hate the ads!! now it's stopped working. uninstalled and good riddance. one person said we should be grateful for its features like space or some rubbish. guess google is way ahead of the game with those freebies. ooh and maybe we're too dumb to figure out how to make this remarkable and unique app work. i would be grateful if it would send an email. how about that?
+
+latest upgrade broke the app. it is not possible any more to type anything inside the message body either in reply or in new mail mode. typing is only allowed in the destination and subject fields of the message header.
+
+very disappointed with recent update. in app browser is very buggy and doesn't load pages well. should have taken notes from facebook's in app browser, which has never given me a problem.
+
+for me it is hard to see all my mails. i have to search them. it is annoying. perhaps i don't know to use it on my phone, but i would like a more friendly mobile interface. it is hard to make a new label. i don't see the button new label :d.
+
+there is still no html coding for the signature. we've been asking for this for six years! https://issuetracker.google.com/issues/36929727 syncing had become inconsistent, sometimes i have to manually initiate sync. also, needs the account name to show in the top bar so i easily know which account i'm in at a glance. please fix.
+
+update is confusing. i checked settings and found the turn off conversation list but that doesn't stop my mail from being grouped in conversations at least on this app. like most people i hate conversations grouping, so y can't i turn it off with this setting?
+
+earlier update, there was mail loading issue, but resolved in this update. however, another unique issue creeped in now..can open the mail, read it, but when you choose reply or reply all options, the cursor does not come and hence cannot reply mails!!!. never seen such an issue..what happened to the standards of gmail...appears complacency...what else to say..
+
+the button to "undo " conversation view is not working. i would like to see all my emails separately. lost to many emails that were put in a string. on my desk top this button works fine on my android it does not. please fix.
+
+the biggest thing keeping me from rating this app 5 stars is the fact that there's no option to select all emails. it's extremely tedious to have to select every single email.
+
+after the new update, my emails won't open. it does show the email list but when i click on one email to open , it doesn't show anything. if i install the previous version it works perfect. please fix ! using android 4.4
+
+great app that generally works well, except when used with an outlook account. often when i delete an email from an outlook account, moments later i'm being notified again for the same email i've just deleted & this will often happen multiple times for the same email. often i have to go on my web browser to the outlook website & delete the email from there, which kinda defeats the purpose of using an app.
+
+pls incorporate old gmail features in new inbox. also we need feature of foldering our emails same as outlook express. pls revert
+
+its better than most apps out there for email, but i absolutely angers me when email don't come to the main mail. nope it goes to spam or promo box & i have to go hunting for it.
+
+very slow not fast hello please use.... the encrypted combination 3072bit or 4096bit rsa and 384bit or 512bit sha for maximum security. all messages are deleted from the server after delivery. thanks fixed and update
+
+numerous spam sex emails with no unsubscribe feature & despite numerous complains to google, nothing gets fixed. a total joke. 28 spam emails in 2 hours is an example.
+
+if it weren't for the fact that you cannot disable conversation view for a standard gmail account (like you can on the full web page) this would be a five star app. i've lost count of the number of emails that i've missed because of this and the confusion/inconvenience this has caused. an email app that it feels is hiding emails (i know that technically it's not but its approach means that emails are easily missed) is a not really fit for purpose. google's inbox similarly in the way it groups emails is hiding some which i can clearly see on the full web page. i need to see if there's an alternative but so far have not found one. surely, since there is an option to toggle conversation view in a browser it can also be implemented in the app without any difficulty. sadly too there are many
+
+every time i see an update, i check to see if they fixed the errors. the "sent" box still shows each email as from "me", i mean who else is it going to be from, it needs to show the recipient! how long are you going to take to correct a program error, that is correct in nearly all email applications.
+
+pretty good mail client, not the best because has more features than i need in the system (check the web version) . i would have tried it earlier if not for the misleading comments about unavoidable conversation view and push notifications. both, as it turns out, are easy to control, the first from the apps settings, the second from androids settings for the app. (its a pain, but i disabled all notifications except the play store) crashes are one thing, complaining because you didn't examine the apps help or search the web for answers is just plain ignorant.
+
+i am using gmail app to check my exchange mail account. it's really fast and convenient. folders sync smoothly. but no facility to send group emails; needed badly.
+
+the app used to work well until the previous version. now the email is again shown quickly all is well again. i'm not sure i'll be so fast to update google apps in the future until there has been a time for the bugs to be shaken out.
+
+using gmail for exchange emails, doesn't show the last conversation in the email. it shows your sent email in the notification!! while the reply should be displayed.
+
+i really haven't shared that much but whenever i did the app seemed ok for awhile then later it would tell me that some thing was wrong and i needed sign out of the app because anyone could see all my apps and i needed to remove my name from signing outgoing e-mail. that's not what i needed.
+
+can't open or view any attachments since the last two updates and i keep getting duplicate emails. brilliant. whatever they broke two updates ago still hasn't been fixed with this latest update.
+
+i actually like gmail, i don't know if it's the last update but i havent been able to view my emails since a couple of days ago. please fix as i see i'm not the only one with this issue. i will go back to 5* once this is fixed
+
+i find it very useful.i got scammed by cold callers when i could not basically use my hands,i have spinal cord damage.spam on my account is not dealt with efficiently.my account is useful and productive and so much easier to handle.all bar the ever mounting spam count which is over seventy rising and unerrasable?????
+
+the world hates gmail conversation group feature. many people said they miss seeing some of their emails because of this feature. so do i. please make an option in the settings for "on/off" this feature like it had for imap, exchange emails, etc thank you!
+
+love google 💚 finally can mark spam on my outlook. thank you 🙏 now i just need better sync for outlook so i don't have to keep deleting the same emails over and over again..
+
+i was going to give a 1star because of the march 2017 update, which got me sooo frustrated, but decided to give gogle team a chance to fix it and now everything is back to normal. works perfectly, does the job as it should.
+
+need a delete all button for regular mail instead of having to delete one at a time, frustrating, can't delete all messages and when you get hundreds too time consuming to delete one at a time , if not fixed going to uninstall and get another server
+
+this app does not use unnecessary permissions/accesses to private/personal components unnecessarily/excessively, as an email-client software/app, from the phone itself :) it can handle multiple accounts v-good. thanks. but google-android's other native-services and google/alphabet server-side are not doing so 😞
+
+after 12 years of use, this "15gb of free storage - you won’t need to delete messages to save space." is no longer true. despite deleting emails, still close to limit. other than this, great app.
+
+switching between multiple accounts couldn't be more convenient!
+
+wish i had not updated. another google app give useless. emails cannot be zoomed out, and/or word wrap to read
+ the text!
+
+the checkbox to include or remove quoted text is no longer an option. i switched back to factory default because now it automatically include quoted text when you replied i do not want to text in my reply it makes the reply too long . please fix this issue immediately!!!
+
+latest update seems really unstable and unreliable. the app doesn't load fully sometimes when opening mail from the notification tray, widget or when using the app icon. i mean what happened...i went literally years with no issues like these experienced with the last few updates.
+
+no threads just initial email showing why can't i see all the threads in a conversation. i have a moto x and can't open emails that contain replies.
+
+change to specific font and more color availability? right now we have the option of 5/6 colors to choose from with no options for lighter or darker hues. also being able to change the font in mobile would be a pretty useful addition. please, make it so...
+
+please add a option to select all for deleting emails. please add select all option to delete email's and a multi select for moving them to a folder. i would greatly appreciate it.
