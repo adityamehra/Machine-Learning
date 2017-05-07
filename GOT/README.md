@@ -4,10 +4,13 @@
 
 [(u'tully', 0.9232528805732727), (u'edmure', 0.8987029194831848), (u'blackfish', 0.8976278901100159), (u'freys', 0.8814080953598022), (u'frey', 0.8813164830207825), (u'edmures', 0.8779534101486206), (u'emmon', 0.8747004270553589), (u'tullys', 0.8729776740074158), (u'cleos', 0.8690072298049927), (u'brynden', 0.867710530757904)]
 
+***
+
 #### `robb is related to stark, as tywin is related to lannister`
 
 [(u'tywin', 0.9359632134437561), (u'kevan', 0.9004075527191162), (u'lannisters', 0.8806290030479431), (u'pays', 0.8720422983169556), (u'edmure', 0.8682733774185181), (u'kingslayer', 0.863793134689331), (u'lancel', 0.8537504076957703), (u'cleos', 0.8518410921096802), (u'casterly', 0.8511592745780945), (u'debts', 0.8500596284866333)]
 
+***
 
 #### `jaime is related to sword, as sipped is related to wine`
 
@@ -18,11 +21,13 @@
 
 [(u'dany', 0.7970458269119263), (u'prayers', 0.7875739932060242), (u'harpy', 0.7864583730697632), (u'wildfire', 0.7842296957969666), (u'daenerys', 0.7836996912956238), (u'astapor', 0.7781214118003845), (u'tongues', 0.7776408791542053), (u'priests', 0.7765422463417053), (u'warlocks', 0.7757917046546936), (u'slaver', 0.773935854434967)]
 
+***
 
 #### `jon is related to snow, as edmure is related to tully`
 
 [(u'edmure', 0.9464003443717957), (u'blackfish', 0.9429439306259155), (u'riverrun', 0.9310880303382874), (u'frey', 0.9260141849517822), (u'gawen', 0.9199275374412537), (u'roslin', 0.9186363220214844), (u'brynden', 0.916502833366394), (u'edmures', 0.9160125851631165), (u'genna', 0.9158691763877869), (u'twins', 0.9125461578369141)]
 
+***
 
 #### `jon is related to snow, as randyll is related to tarly`
 
@@ -33,6 +38,7 @@
 
 [(u'sam', 0.9760289788246155), (u'grenn', 0.974457859992981), (u'pyp', 0.9449060559272766), (u'samwell', 0.943597137928009), (u'chett', 0.9284096956253052), (u'rast', 0.9020347595214844), (u'gendry', 0.9001091122627258), (u'mully', 0.8995793461799622), (u'halder', 0.8983017206192017), (u'toad', 0.8869630694389343)]
 
+***
 
 #### `bran is related to robb, as dwarf is related to tyrion`
 
@@ -43,11 +49,13 @@
 
 [(u'tyrion', 0.8732221722602844), (u'dwarf', 0.8146741390228271), (u'dizzy', 0.8126232028007507), (u'meera', 0.8102301359176636), (u'ached', 0.8099417686462402), (u'painful', 0.8080930709838867), (u'happening', 0.8062783479690552), (u'badly', 0.8046032190322876), (u'urswyck', 0.803811252117157), (u'hated', 0.80070561170578)]
 
+***
 
 #### `eddard is related to robb, as dwarf is related to tyrion`
 
 [(u'dwarf', 0.923670768737793), (u'cersei', 0.876767098903656), (u'varys', 0.8657793402671814), (u'shae', 0.8593648672103882), (u'littlefinger', 0.8547723889350891), (u'tyrions', 0.8459188342094421), (u'littlefingers', 0.8304731845855713), (u'pays', 0.826997697353363), (u'cerseis', 0.8264069557189941), (u'janos', 0.8245671987533569)]
 
+***
 
 #### `eddard is related to robb, as kingslayer is related to jaime`
 [(u'kingslayer', 0.9153674840927124), (u'pays', 0.9014945030212402), (u'jaimes', 0.8947036862373352), (u'cersei', 0.8932570815086365), (u'headsman', 0.891247570514679), (u'harrenhal', 0.8848142027854919), (u'renlys', 0.884083092212677), (u'tywin', 0.8774996399879456), (u'cerseis', 0.8765556812286377), (u'joff', 0.8735513687133789)]
@@ -72,16 +80,19 @@
 
 [(u'tywin', 0.8812113404273987), (u'uncle', 0.8657588362693787), (u'kevan', 0.8601152896881104), (u'nephew', 0.8483381271362305), (u'lannisters', 0.8433249592781067), (u'wins', 0.8406041860580444), (u'olyvar', 0.8391934633255005), (u'weakling', 0.8346391916275024), (u'finish', 0.8331558704376221), (u'prisoner', 0.8328901529312134)]
 
+***
 
 #### `cersei is related to robert, as sansa is related to eddard`
 
 [(u'sansa', 0.8949533104896545), (u'catelyn', 0.8759196996688843), (u'qyburn', 0.8747949600219727), (u'disturb', 0.8679523468017578), (u'tywin', 0.8676232099533081), (u'wearily', 0.8669119477272034), (u'stiffly', 0.8635801076889038), (u'jeynes', 0.8635268211364746), (u'witnesses', 0.8618178367614746), (u'unexpected', 0.8605519533157349)]
 
+***
 
 #### `cersei is related to tywin, as sansa is related to eddard`
 
 [(u'sansa', 0.9385362267494202), (u'ned', 0.9163380265235901), (u'shireen', 0.8937620520591736), (u'sansas', 0.8881199955940247), (u'val', 0.8879556655883789), (u'lyanna', 0.8855531811714172), (u'joffrey', 0.8822736740112305), (u'commons', 0.8775850534439087), (u'dutifully', 0.8753001093864441), (u'traitor', 0.8751040101051331)]
 
+***
 
 #### `cersei is related to jaime, as dwarf is related to tyrion`
 
