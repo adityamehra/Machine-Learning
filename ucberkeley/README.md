@@ -14,6 +14,6 @@ Download the [1973 UC-Berkeley Graduate School Admission Data](http://www.calvin
 
 # Graphs
 
-<img src="https://github.com/adityamehra/Machine-Learning/blob/master/ucberkeley/graphs/graph1.png" width="360" height="640">
+<img src="https://github.com/adityamehra/Machine-Learning/blob/master/ucberkeley/graphs/graph1.png" width="1080" height="720">
 
-<img src="https://github.com/adityamehra/Machine-Learning/blob/master/ucberkeley/graphs/graph2.png" width="360" height="640">
+<img src="https://github.com/adityamehra/Machine-Learning/blob/master/ucberkeley/graphs/graph2.png" width="1080" height="720">
