@@ -25,13 +25,15 @@ for index, row in data.iterrows():
     elif row["Gender"] == "Female" and row["Admit"] == "Rejected":
         countFemaleReject += row["Freq"]
 
-counts = np.array([[countMaleAdmit, countMaleReject, countFemaleAdmit, countFemaleReject]])
-
-data1 = pd.DataFrame(counts, columns=['Male Admit', 'Male Reject', 'Female Admit', 'Female Reject'])
-
-# data1.plot.bar()
-# data1.plot.pie(subplots = True, figsize=(8, 8))
-# plt.show()
+counts = [ [ countMaleAdmit/(countMaleAdmit+countMaleReject)*100, countMaleReject/(countMaleAdmit+countMaleReject)*100 ] ]
+counts.append( [ countFemaleAdmit/(countFemaleAdmit+countFemaleReject)*100, countFemaleReject/(countFemaleAdmit+countFemaleReject)*100 ] )
+# counts = np.array(counts)
+data1 = pd.DataFrame(counts, columns=['Admit', 'Reject'])
+ax = data1.plot(kind = "bar", alpha = 1.0, rot=0)
+ax.set_xticklabels(["Male", "Female"])
+plt.xlabel('Gender', fontsize=18)
+plt.ylabel(" Percentage", fontsize=16)
+plt.show()
 
 countMaleAdmits = { "A" : 0, "B" : 0, "C" : 0, "D" : 0, "E": 0, "F" : 0}
 countMaleRejects = { "A" : 0, "B" : 0, "C" : 0, "D" : 0, "E": 0, "F" : 0}
@@ -71,10 +73,10 @@ for dept in depts:
     deptCounts.append(deptCount);
 
 data1 = pd.DataFrame(deptCounts, columns=['Male Admit', 'Female Admit'])
-ax = data1.plot(kind='bar',alpha=0.75, rot=0)
-ax.set_xticklabels(depts)
+ax1 = data1.plot(kind='bar',alpha=1.0, rot=0)
+ax1.set_xticklabels(depts)
 plt.xlabel('Dept', fontsize=18)
-plt.ylabel(" Percentage Admitted", fontsize=16)
+plt.ylabel("Percentage", fontsize=16)
 plt.show()
 
 # print countMaleAdmits
