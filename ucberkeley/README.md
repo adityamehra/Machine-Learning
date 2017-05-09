@@ -1,5 +1,6 @@
 # Simpson's Paradox
 
+This project was inspired from `Udacity's Inroduction to Data Science` and [vudlabs](http://vudlab.com/simpsons/) 
 
 # Background:
 In 1973, the `University of California-Berkeley (UC-Berkeley) was sued for sex discrimination`. Its admission data showed that men applying to graduate school at UC-Berkley were more likely to be admitted than women.
