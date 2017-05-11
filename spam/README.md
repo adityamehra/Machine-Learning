@@ -6,7 +6,7 @@
 
 # Results
 
-### Using Word2Vec
+### Word2Vec
 
 `###### Word2Vec ######`
 
@@ -23,9 +23,8 @@ Accuracy score:  `0.964824120603`
 Precision score:  `0.865591397849`
 Recall score:  `0.87027027027`
 F1 score:  `0.867924528302`
-`
 
-### Using Bag of Words
+### Bag of Words
 
 `###### Bag of words ######`
 
