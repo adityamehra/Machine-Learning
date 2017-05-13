@@ -9,4 +9,5 @@
 ### Importance of stopwords
 
 Accuracy score without stopwords : `0.795953757225`
-Acuuracy with stopwords: `0.932369942197`
+
+Accuracy score with stopwords: `0.932369942197`
