@@ -3,15 +3,6 @@
 ## Introduction and Foundations
 ## Project: Titanic Survival Exploration
 
-In 1912, the ship RMS Titanic struck an iceberg on its maiden voyage and sank, resulting in the deaths of most of its passengers and crew. In this introductory project, we will explore a subset of the RMS Titanic passenger manifest to determine which features best predict whether someone survived or did not survive. To complete this project, you will need to implement several conditional predictions and answer the questions below. Your project submission will be evaluated based on the completion of the code and your responses to the questions.
-> **Tip:** Quoted sections like this will provide helpful instructions on how to navigate and use an iPython notebook. 
-
-# Getting Started
-To begin working with the RMS Titanic passenger data, we'll first need to `import` the functionality we need, and load our data into a `pandas` DataFrame.  
-Run the code cell below to load our data and display the first few entries (passengers) for examination using the `.head()` function.
-> **Tip:** You can run a code cell by clicking on the cell and using the keyboard shortcut **Shift + Enter** or **Shift + Return**. Alternatively, a code cell can be executed using the **Play** button in the hotbar after selecting it. Markdown cells (text cells like this one) can be edited by double-clicking, and saved using these same shortcuts. [Markdown](http://daringfireball.net/projects/markdown/syntax) allows you to write easy-to-read plain text that can be converted to HTML.
-
-
 ```python
 # Import libraries necessary for this project
 import numpy as np
@@ -864,14 +855,9 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'female'", "Fare >= 20"])
 
 # Conclusion
 
-After several iterations of exploring and conditioning on the data, you have built a useful algorithm for predicting the survival of each passenger aboard the RMS Titanic. The technique applied in this project is a manual implementation of a simple machine learning model, the *decision tree*. A decision tree splits a set of data into smaller and smaller groups (called *nodes*), by one feature at a time. Each time a subset of the data is split, our predictions become more accurate if each of the resulting subgroups are more homogeneous (contain similar labels) than before. The advantage of having a computer do things for us is that it will be more exhaustive and more precise than our manual exploration above. [This link](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/) provides another introduction into machine learning using a decision tree.
-
 A decision tree is just one of many models that come from *supervised learning*. In supervised learning, we attempt to use features of the data to predict or model things with objective outcome labels. That is to say, each of our data points has a known outcome value, such as a categorical, discrete label like `'Survived'`, or a numerical, continuous value like predicting the price of a house.
 
 ### Question 5
 *Think of a real-world scenario where supervised learning could be applied. What would be the outcome variable that you are trying to predict? Name two features about the data used in this scenario that might be helpful for making the predictions.*  
 
 **Answer**: * A real world scenario of supervised learnign can be to  predict the performance of students in the schools and colleges. __Final grade__ of the student can be used as the outcome variable.  Two features that might be helful to make predictions will be __mid-term/homework grades__ and __attendance__. *
-
-> **Note**: Once you have completed all of the code implementations and successfully answered each question above, you may finalize your work by exporting the iPython Notebook as an HTML document. You can do this by using the menu above and navigating to  
-**File -> Download as -> HTML (.html)**. Include the finished document along with this notebook as your submission.
