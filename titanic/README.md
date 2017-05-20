@@ -331,7 +331,7 @@ vs.survival_stats(data, outcomes, 'Sex')
 ```
 
 
-![png](output_13_0.png)
+![png](README/output_13_0.png)
 
 
 Examining the survival statistics, a large majority of males did not survive the ship sinking. However, a majority of females *did* survive the ship sinking. Let's build on our previous prediction: If a passenger was female, then we will predict that they survived. Otherwise, we will predict the passenger did not survive.  
