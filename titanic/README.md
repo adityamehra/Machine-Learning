@@ -385,7 +385,7 @@ vs.survival_stats(data, outcomes, 'Age', ["Sex == 'male'"])
 ```
 
 
-![png](output_20_0.png)
+![png](README/output_20_0.png)
 
 
 Examining the survival statistics, the majority of males younger than 10 survived the ship sinking, whereas most males age 10 or older *did not survive* the ship sinking. Let's continue to build on our previous prediction: If a passenger was female, then we will predict they survive. If a passenger was male and younger than 10, then we will also predict they survive. Otherwise, we will predict they do not survive.  
@@ -447,7 +447,7 @@ vs.survival_stats(data, outcomes, 'Age', ["Sex == 'male'", "Age < 18"])
 ```
 
 
-![png](output_27_0.png)
+![png](README/output_27_0.png)
 
 
 After exploring the survival statistics visualization, fill in the missing code below so that the function will make your prediction.  
@@ -510,7 +510,7 @@ vs.survival_stats(data, outcomes, 'Embarked')
 ```
 
 
-![png](output_34_0.png)
+![png](README/output_34_0.png)
 
 
     Passengers with missing 'Embarked' values: 2 (2 survived, 0 did not survive)
@@ -522,7 +522,7 @@ vs.survival_stats(data, outcomes, 'Embarked', ["Sex == 'female'"])
 ```
 
 
-![png](output_35_0.png)
+![png](README/output_35_0.png)
 
 
     Passengers with missing 'Embarked' values: 2 (2 survived, 0 did not survive)
@@ -537,7 +537,7 @@ vs.survival_stats(data, outcomes, 'Embarked', ["Sex == 'male'"])
 ```
 
 
-![png](output_37_0.png)
+![png](README/output_37_0.png)
 
 
 # 2. Pclass
@@ -550,7 +550,7 @@ vs.survival_stats(data, outcomes, 'Pclass')
 ```
 
 
-![png](output_39_0.png)
+![png](README/output_39_0.png)
 
 
 ***
@@ -562,7 +562,7 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'female'"])
 ```
 
 
-![png](output_41_0.png)
+![png](README/output_41_0.png)
 
 
 ***
@@ -574,7 +574,7 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'male'"])
 ```
 
 
-![png](output_43_0.png)
+![png](README/output_43_0.png)
 
 
 # 3. Fare
@@ -623,7 +623,7 @@ vs.survival_stats(data, outcomes, 'Fare')
 ```
 
 
-![png](output_48_0.png)
+![png](README/output_48_0.png)
 
 
 ***
@@ -635,7 +635,7 @@ vs.survival_stats(data, outcomes, 'Fare', ["Fare < 100"])
 ```
 
 
-![png](output_50_0.png)
+![png](README/output_50_0.png)
 
 
 ***
@@ -655,7 +655,7 @@ vs.survival_stats(data, outcomes, 'Fare2')
 ```
 
 
-![png](output_53_0.png)
+![png](README/output_53_0.png)
 
 
 
@@ -664,7 +664,7 @@ vs.survival_stats(data, outcomes, 'Fare2', ["Sex == 'male'"])
 ```
 
 
-![png](output_54_0.png)
+![png](README/output_54_0.png)
 
 
 
@@ -673,7 +673,7 @@ vs.survival_stats(data, outcomes, 'Fare2', ["Sex == 'female'"])
 ```
 
 
-![png](output_55_0.png)
+![png](README/output_55_0.png)
 
 
 
@@ -682,7 +682,7 @@ vs.survival_stats(data, outcomes, 'Fare2', ["Sex == 'female'", "Pclass == 3"])
 ```
 
 
-![png](output_56_0.png)
+![png](README/output_56_0.png)
 
 
 _This shows that female passengers with **Plcass = 3** and **Fare > 20** have low survival rate. Predicting these female passengers as non-survival (0) may change the accuracy._
@@ -693,7 +693,7 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'female'", "Fare2 == '20-40
 ```
 
 
-![png](output_58_0.png)
+![png](README/output_58_0.png)
 
 
 
@@ -702,7 +702,7 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'female'", "Fare2 == '40+'"
 ```
 
 
-![png](output_59_0.png)
+![png](README/output_59_0.png)
 
 
 
@@ -859,7 +859,7 @@ vs.survival_stats(data, outcomes, 'Pclass', ["Sex == 'female'", "Fare >= 20"])
 ```
 
 
-![png](output_62_0.png)
+![png](README/output_62_0.png)
 
 
 # Conclusion
